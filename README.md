@@ -30,4 +30,4 @@ git status; git add .; git commit -m "last commit"; git push origin main
 **Как запустить:**
 1. Установите необходимое ПО.
 2. Следуйте инструкциям в коде для за1. Установите необходимое ПО.
-2. Следуйте инструкциям в коде для за
+2. Следуйте инструкциям в коде для заgit status; git add .; git commit -m "last commit"; git push origin main
