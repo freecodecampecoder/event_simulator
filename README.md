@@ -39,4 +39,4 @@ git status; git add .; git commit -m "last commit"; git push origin main
 git status; git add .; git commit -m "last commit"; git push origin main
 git status; git add .; git commit -m "last commit"; git push origin main
 git status; git add .; git commit -m "last commit"; git push origin main
-vvvvv
+vvvvvgit status; git add .; git commit -m "last commit"; git push origin main
