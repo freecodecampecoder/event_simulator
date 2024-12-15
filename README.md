@@ -13,3 +13,4 @@
 1. Установите необходимое ПО.
 2. Следуйте инструкциям в коде для запуска.
 git status; git add .; git commit -m "last commit"; git push origin main
+git status; git add .; git commit -m "last commit"; git push origin main
